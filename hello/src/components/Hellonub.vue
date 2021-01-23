@@ -25,19 +25,20 @@ export default {
 <style scoped>
 .title-header {
   margin-bottom: 80px;
+  text-align: left;
   color: aliceblue;
 }
 .hellonub-wrapper {
-  width: 70%;
+  width: 62%;
   overflow: hidden;
   margin: auto;
-  /* background: rgba(26, 25, 25, 0.781); */
+  /* background: gray; */
 }
 
 .item-hellonub {
   float: left;
-  margin-right: 20px;
-  margin-bottom: 20px;
+  margin-right: 70px;
+  margin-bottom: 70px;
   width: 150px;
   height: 150px;
 }
